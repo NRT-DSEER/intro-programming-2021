@@ -17,7 +17,7 @@ This repo houses data and notebooks for the 2021 DSEER "Introduction to Scientif
 `output` is where you will save your own files
 
 Don't change the structure!
-
+some changes
 
 # Syllabus
 (add me!)
