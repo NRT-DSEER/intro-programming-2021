@@ -12,8 +12,10 @@ This repo houses data and notebooks for the 2021 DSEER "Introduction to Scientif
 2) `cd` into a directory that you want all of your bootcamp materials to live.
 3) Type `git clone https://github.com/NRT-DSEER/intro-programming-2021.git`
 4) Type `cd intro-programming-2021`
-5) You're all set up! To start using notebooks, type `cd notebooks` and then type `jupyter notebook` which should open a new tab in your default browser, and print a bunch of random stuff in your terminal.
-6) Each day, start class by going into your bootcamp repo directory (`cd intro-programming-2021`) and typing `git pull`
+5) You're all set up! To start using notebooks, type `cd notebooks` and then type `jupyter notebook` 
+6) This should open a new tab in your default browser and print a bunch of stuff in your terminal.
+7) In the new tab that was just opened in your browser, click the notebook for the day of the course that you are on. For the first day, open "Day1_Setup.ipynb" and follow the instructions in that notebook to make sure you followed all the steps correctly.
+8) Each day, start class by going into your bootcamp repo directory (`cd intro-programming-2021`) and typing `git pull`. Then follow steps 5-7
 
 ## Directory Structure:
 `data` holds data
