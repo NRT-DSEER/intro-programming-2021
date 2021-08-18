@@ -1,2 +1,8 @@
 # Ignore notebook checkpoint files
 .ipynb_checkpoints
+
+# Ignore notebooks used by instructors
+instructor_notes
+
+# Ignore outputs but keep the folder
+output/*
