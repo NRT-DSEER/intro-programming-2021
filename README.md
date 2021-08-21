@@ -28,7 +28,6 @@ Don't change the structure!
 
 
 # Syllabus
-## Introduction to Scientific Programming with Python
 
 ### Instructors:
 All the instructors are also on Slack, we prefer that you send us a slack message if you have any questions over sending an email. Slack is only available for students taking the live version of the course. Please check your email for information on how to join slack.
@@ -46,7 +45,7 @@ We will stop for skill practice and breaks
 Any code not covered should be completed outside of class with help from TAs
 Short skill practice problems as homework 
 
-### Time:
+### Class Time:
 Aug 30-Sept 17
 10:00am-12:30pm CT 
 We will not have class on Labor Day 9/6.
