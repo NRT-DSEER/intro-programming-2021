@@ -37,7 +37,12 @@ All the instructors are also on Slack, we prefer that you send us a slack messag
 - Maria D Hernandez Limon (she/her), 3nd year graduate student, Geophysical Sciences, mdhernandez@uchicago.edu 
 
 ### Teaching Assistants:
-TAs will only respond to questions during office hours, please do not expect replies at other times. ##ADD ZOOM INFO for TA ##
+TAs will only respond to questions during office hours, please do not expect replies at other times. 
+Add contact info for TAs.
+TA 1:
+TA 2:
+TA 3:
+TA 4: 
 
 ### Structure:
 Instructor will go over pre-written code
