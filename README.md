@@ -37,12 +37,10 @@ All the instructors are also on Slack, we prefer that you send us a slack messag
 - Maria D Hernandez Limon (she/her), 3nd year graduate student, Geophysical Sciences, mdhernandez@uchicago.edu 
 
 ### Teaching Assistants:
-TAs will only respond to questions during office hours, please do not expect replies at other times. 
-Add contact info for TAs.
-- TA 1:
-- TA 2:
-- TA 3:
-- TA 4: 
+
+Office Hours Zoom: 
+https://uchicago.zoom.us/j/97235120674?pwd=RUlqUUNMY25SL2h2a2JvMFhMdis1Zz09
+Meeting ID: 972 3512 0674   Passcode: 965225
 
 ### Class Time:
 - Aug 30-Sept 17
