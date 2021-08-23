@@ -32,11 +32,12 @@ Don't change the structure!
 ### Instructors:
 All the instructors are also on Slack, we prefer that you send us a slack message if you have any questions over sending an email. Slack is only available for students taking the live version of the course. Please check your email for information on how to join slack.
 
-- Amanda Farah (she/her or they/them), 3nd year graduate student, Astrophysics, afarah@uchicago.edu 
-- Katie Dixon (she/her), 5th year graduate student, Ecology and Evolution, kpdixon@uchicago.edu
-- Maria D Hernandez Limon (she/her), 3nd year graduate student, Geophysical Sciences, mdhernandez@uchicago.edu 
+- Amanda Farah (she/her or they/them), 3nd year graduate student, Astrophysics
+- Katie Dixon (she/her), 5th year graduate student, Ecology and Evolution
+- Maria D Hernandez Limon (she/her), 3nd year graduate student, Geophysical Sciences
 
 ### Teaching Assistants:
+Contact over slack or attend [office hours](#office-hours) at this link:
 
 Office Hours Zoom: 
 https://uchicago.zoom.us/j/97235120674?pwd=RUlqUUNMY25SL2h2a2JvMFhMdis1Zz09
@@ -55,7 +56,7 @@ Meeting ID: 972 3512 0674   Passcode: 965225
 
 ### How to ask for help:
 - Go to the office hours of any of the TAs
-- If you need help outside of class time or office hours, contact one of the TAs via their preferred communication channel (listed under their name). They will respond during their office hours.
+- If you need help outside of class time or office hours, contact one of the TAs via slack. They will respond during their office hours.
 - During class, post to your slack channel and your TA will respond in real time
 
 ### Recordings:
@@ -147,3 +148,9 @@ Info on where to find the recordings.
 - Git: version control and collaboration
 - Best practices
 
+
+# Office Hours
+Office Hours Zoom: 
+https://uchicago.zoom.us/j/97235120674?pwd=RUlqUUNMY25SL2h2a2JvMFhMdis1Zz09
+Meeting ID: 972 3512 0674   Passcode: 965225
+(katie will paste times)
