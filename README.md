@@ -44,21 +44,21 @@ Add contact info for TAs.
 - TA 3:
 - TA 4: 
 
-### Structure:
-Instructor will go over pre-written code
-We will stop for skill practice and breaks 
-Any code not covered should be completed outside of class with help from TAs
-Short skill practice problems as homework 
-
 ### Class Time:
-Aug 30-Sept 17
-10:00am-12:30pm CT 
-We will not have class on Labor Day 9/6.
+- Aug 30-Sept 17
+- 10:00am-12:30pm CT 
+- We will not have class on Labor Day 9/6.
+
+### Structure:
+- Instructors will go over pre-written code and discuss the mechanics of what is going on
+- We will stop intermittently for skill practice and breaks 
+- Any code not covered should be completed outside of class with help from TAs
+- Occasional, short skill practice problems as homework 
 
 ### How to ask for help:
-Go to the office hours of any of the TAs
-If you need help outside of class time or office hours, contact one of the TAs via their preferred communication channel (listed under their name). They will respond during their office hours.
-During class, post to your slack channel and your TA will respond in real time
+- Go to the office hours of any of the TAs
+- If you need help outside of class time or office hours, contact one of the TAs via their preferred communication channel (listed under their name). They will respond during their office hours.
+- During class, post to your slack channel and your TA will respond in real time
 
 ### Recordings:
 Info on where to find the recordings.
