@@ -43,6 +43,9 @@ Add contact info for TAs.
 - TA 2:
 - TA 3:
 - TA 4: 
+Office Hours Zoom: 
+https://uchicago.zoom.us/j/97235120674?pwd=RUlqUUNMY25SL2h2a2JvMFhMdis1Zz09
+Meeting ID: 972 3512 0674   Passcode: 965225
 
 ### Class Time:
 - Aug 30-Sept 17
