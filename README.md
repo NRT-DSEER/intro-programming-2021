@@ -37,7 +37,7 @@ All the instructors are also on Slack, we prefer that you send us a slack messag
 - Maria D Hernandez Limon (she/her), 3nd year graduate student, Geophysical Sciences
 
 ### Teaching Assistants:
-Contact over slack or attend [office hours](office-hours) at this link:
+Contact over slack or attend [office hours](#office-hours) at this link:
 
 Office Hours Zoom: 
 https://uchicago.zoom.us/j/97235120674?pwd=RUlqUUNMY25SL2h2a2JvMFhMdis1Zz09
