@@ -56,7 +56,7 @@ Meeting ID: 972 3512 0674   Passcode: 965225
 
 ### How to ask for help:
 - Go to the office hours of any of the TAs
-- If you need help outside of class time or office hours, contact one of the TAs via their preferred communication channel (listed under their name). They will respond during their office hours.
+- If you need help outside of class time or office hours, contact one of the TAs via slack. They will respond during their office hours.
 - During class, post to your slack channel and your TA will respond in real time
 
 ### Recordings:
