@@ -108,12 +108,13 @@ Info on where to find the recordings.
 
 ### 1. Functions (9/7)
 - User-defined functions
-- docstrings!!!!
+- docstrings!!!
 - List python built-in functions
 - Make connection to functions in libraries
 
 ### 2. Introduction to Plotting (9/8)
-- matplot
+- plotting with matplot
+- using functions for automating plots
 
 ### 3. Introduction to pandas (9/9)
 - Intro to pandas
