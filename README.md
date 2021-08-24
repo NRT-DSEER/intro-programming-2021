@@ -124,17 +124,17 @@ Info on where to find the recordings.
 - export csv---input/output
 
 ### 4. Introduction to pandas (9/10)
-- Modify dataframe (change col names +index)
-- Modify values (strings, split, replace)
-- row /column add/drop
-- Merge, concat, join
+- Modify dataframe
+- Modify values
+- Cleaaning and making a function
+- Merge, concat, append
 
 ## Week 3: Applied
 
 ### 1. Pandas applications (9/13)
+- Intro to Math/Stats  
 - Intro to pivot, groupby
-- Intro to Stats  
-
+ 
 ### 2. Intermediate Plotting (9/14)
 - Seaborn
 
