@@ -116,25 +116,23 @@ Info on where to find the recordings.
 - using functions for automating plots
 
 ### 3. Introduction to pandas (9/9)
-- Intro to pandas
-- Making dataframes from scratch 
-- Import data (csv, txt, xlsx, url)
-- Viewing data (sort_values, columns, index, dot notation)
-- Indexing (.iloc, loc)
-- export csv---input/output
+- Create a dataframe from scratch
+- Read in tabular data into a dataframe
+- View and access data in the dataframe
+- Save and export a dataframe
 
 ### 4. Introduction to pandas (9/10)
-- Modify dataframe (change col names +index)
-- Modify values (strings, split, replace)
-- row /column add/drop
-- Merge, concat, join
+- Modify dataframe
+- Modify values
+- Clean data and make a function to import data
+- Merge, concat, append
 
 ## Week 3: Applied
 
 ### 1. Pandas applications (9/13)
+- Intro to Math/Stats  
 - Intro to pivot, groupby
-- Intro to Stats  
-
+ 
 ### 2. Intermediate Plotting (9/14)
 - Seaborn
 
