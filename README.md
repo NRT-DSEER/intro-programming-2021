@@ -151,4 +151,52 @@ Info on where to find the recordings.
 Office Hours Zoom: 
 https://uchicago.zoom.us/j/97235120674?pwd=RUlqUUNMY25SL2h2a2JvMFhMdis1Zz09
 Meeting ID: 972 3512 0674   Passcode: 965225
-(katie will paste times)
+
+
+## Week One:
+August 30, 2021 (Monday)
+Slot 1: 1:00pm
+Slot 2: 2:00pm 
+Slot 3: 4:00pm
+
+### August 31, 2021 (Tuesday)
+Slot 1: 1:00pm
+
+### September 1, 2021 (Wednesday)
+Slot 1: 3:00pm
+
+### September 2, 2021 (Thursday)
+Slot 1: 4:00 pm
+
+### September 3, 2021 (Friday)
+Slot 1: 8:30am
+
+## Week Two:
+
+### September 7, 2021 (Tuesday)
+Slot 1: 11:00 am
+Slot 2: 1:00pm
+
+### September 8, 2021 (Wednesday)
+Slot 1: 11:00 am
+
+### September 9, 2021 (Thursday)
+Slot 1: 4:00 pm
+
+### September 10, 2021 (Friday)
+Slot 1: 8:30am
+
+## Week Three:
+September 13, 2021 (Monday)
+Slot 1: 4:00 pm
+Slot 2: 11:00 am
+
+### September 14, 2021 (Tuesday)
+Slot 1: 8:30am
+
+### September 15, 2021 (Wednesday)
+Slot 1: 11:00 am
+
+### September 16, 2021 (Thursday)
+Slot 1: 4:00 pm
+
