@@ -154,7 +154,7 @@ Meeting ID: 972 3512 0674   Passcode: 965225
 
 
 ## Week One:
-## August 30, 2021 (Monday)
+### August 30, 2021 (Monday)
 Slot 1: 1:00pm
 
 Slot 2: 2:00pm 
@@ -190,7 +190,7 @@ Slot 1: 4:00 pm
 Slot 1: 8:30am
 
 ## Week Three:
-## September 13, 2021 (Monday)
+### September 13, 2021 (Monday)
 
 Slot 1: 4:00 pm
 
