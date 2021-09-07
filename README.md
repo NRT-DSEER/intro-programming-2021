@@ -126,6 +126,7 @@ Info on where to find the recordings.
 - Modify values
 - Clean data and make a function to import data
 - Merge, concat, append
+- Automation (functions, for loops)
 
 ## Week 3: Applied
 
