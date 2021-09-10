@@ -139,13 +139,14 @@ Info on where to find the recordings.
 
 ### 3. Maps (9/15)
 - Maps
+- .py scripts
 
-### 4. Overflow/buffer day (9/16)
-
-### 5. Conclusion (9/17)
+### 4. Classes and Conlusion (9/16)
+- Classes
 - Computing at scale and the RCC
-- Git: version control and collaboration
 - Best practices
+
+### 5. NO CLASS (9/17)
 
 
 # Office Hours
