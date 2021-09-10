@@ -147,6 +147,7 @@ Info on where to find the recordings.
 - Best practices
 
 ### 5. NO CLASS (9/17)
+-We didn't need the buffer day we had originally scheduled.
 
 
 # Office Hours
