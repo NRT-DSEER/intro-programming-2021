@@ -136,10 +136,11 @@ Info on where to find the recordings.
  
 ### 2. Intermediate Plotting (9/14)
 - Seaborn
+- Intro to SciPy
 
 ### 3. Maps (9/15)
-- Maps
-- .py scripts
+- Maps + gif
+- .py/.sh scripts
 
 ### 4. Classes and Conlusion (9/16)
 - Classes
